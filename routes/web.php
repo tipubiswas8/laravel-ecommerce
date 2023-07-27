@@ -7,7 +7,7 @@ use App\Http\Controllers\Admin\Product\AdminProductController;
 use App\Http\Controllers\Admin\Order\OrderController;
 use App\Http\Controllers\Visitors\Home\HomeController;
 use App\Http\Controllers\Visitors\Product\VisitorProductController;
-use App\Http\controllers\Visitors\Cart\CartController;
+use App\Http\Controllers\Visitors\Cart\CartController;
 use App\Http\Controllers\Visitors\SSLPayment\CheckoutController;
 use App\Http\Controllers\Visitors\SSLPayment\SslCommerzPaymentController;
 use App\Http\Controllers\Visitors\Filter\FilterController;
