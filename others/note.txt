@@ -1,0 +1,8 @@
+category
+product
+order
+cart
+payment
+search
+filter
+home
